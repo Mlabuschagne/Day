@@ -1,0 +1,13 @@
+C:\Users\Zking001\source\repos\Day\Day\bin\Debug\netcoreapp3.1\Day.exe
+C:\Users\Zking001\source\repos\Day\Day\bin\Debug\netcoreapp3.1\Day.deps.json
+C:\Users\Zking001\source\repos\Day\Day\bin\Debug\netcoreapp3.1\Day.runtimeconfig.json
+C:\Users\Zking001\source\repos\Day\Day\bin\Debug\netcoreapp3.1\Day.runtimeconfig.dev.json
+C:\Users\Zking001\source\repos\Day\Day\bin\Debug\netcoreapp3.1\Day.dll
+C:\Users\Zking001\source\repos\Day\Day\bin\Debug\netcoreapp3.1\Day.pdb
+C:\Users\Zking001\source\repos\Day\Day\obj\Debug\netcoreapp3.1\Day.csprojAssemblyReference.cache
+C:\Users\Zking001\source\repos\Day\Day\obj\Debug\netcoreapp3.1\Day.AssemblyInfoInputs.cache
+C:\Users\Zking001\source\repos\Day\Day\obj\Debug\netcoreapp3.1\Day.AssemblyInfo.cs
+C:\Users\Zking001\source\repos\Day\Day\obj\Debug\netcoreapp3.1\Day.csproj.CoreCompileInputs.cache
+C:\Users\Zking001\source\repos\Day\Day\obj\Debug\netcoreapp3.1\Day.dll
+C:\Users\Zking001\source\repos\Day\Day\obj\Debug\netcoreapp3.1\Day.pdb
+C:\Users\Zking001\source\repos\Day\Day\obj\Debug\netcoreapp3.1\Day.genruntimeconfig.cache
